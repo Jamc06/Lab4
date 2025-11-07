@@ -17,7 +17,7 @@ public class CMSView {
     }
 
     public void iniciar() {
-        System.out.println("=== 🎬 SISTEMA CMS UVG ===");
+        System.out.println(" SISTEMA CMS UVG ");
         boolean continuar = true;
 
         while (continuar) {
