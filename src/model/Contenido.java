@@ -5,7 +5,7 @@ import java.util.List;
 
 public abstract class Contenido implements Publicable {
     protected int id;
-    protected String titulo;
+    public String titulo;
     protected String autor;
     protected String categoria;
     protected List<String> etiquetas;
